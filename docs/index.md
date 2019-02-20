@@ -1,6 +1,6 @@
 ﻿# Leading Platform for Smart Contract Creation, Deployment, Interaction & Token Offering
 
-MyContract.co: a WebApp that allows users to create smart contracts for issuing tokens to crowdsale or asset tokenization without a need for any programming expertise, just in a few clicks.
+MyContract.co: A WebApp that allows users to create smart contracts for issuing tokens to crowdsale or asset tokenization without a need for any programming expertise, just in a few clicks.
 
 ![XinFin Network](/assets/home.png)
 
