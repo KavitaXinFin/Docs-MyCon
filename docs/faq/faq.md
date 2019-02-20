@@ -1,8 +1,4 @@
-﻿# Frequently Asked Questions
-
-## General
-
-### MyContract
+﻿# MyContract Frequently Asked Questions
 
 !!! quote "How can I pay for My-Contract Packages??"
     Pay for your My Contract package using XDCE. Create an account and proceed to our payment gateway by hitting 'Code My Contract'.
