@@ -47,17 +47,17 @@ repo_name: XinFinOrg/How-to-MyContract
 google_analytics: ['UA-124597188-1', 'docs.xinfin.org']
 
 nav:
-    - Get Started:
+    - General:
       - Introduction: index.md
-      - Product Overview: get-started/productoverview.md
+      - About: general/about.md
+    - Get started:
+      - Overview:
+        - Products overview: get-started/productoverview.md
     # - XinFin Network client:
     #   - Getting started: misc/wip.md
     #   - Contributing: misc/wip.md
     - Guide:
         - Guide/how_to_setup.md
-        - Guide/Demonestration.md
-    - Media Room:
-        - Media/Articles.md
     - FAQ:
         - faq/faq.md
 copyright: If you wish to improve this site, please <a href="https://github.com/XinFinOrg/How-To-MyContract/issues/new"><i class="fa fa-github"></i> open an issue</a> or <a href="https://github.com/XinFinOrg/How-To-MyContract/issues/compare"><i class="fa fa-github"></i> send a pull request</a>.<br>Mycontract v0.1.0. XinFin Network Project 2018.
