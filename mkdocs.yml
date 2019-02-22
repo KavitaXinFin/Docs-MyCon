@@ -29,7 +29,7 @@ extra:
     disqus:
     social:
         - type: 'github'
-          link: 'https://github.com/XinFinOrg/How-To-MyContract'
+          link: 'https://github.com/XinFinOrg/Docs-MyCon'
         - type: 'twitter'
           link: 'https://twitter.com/xinfinf'
         - type: 'reddit'
@@ -42,8 +42,8 @@ extra:
           link: 'https://medium.com/xinfin'
 
 site_url: https://www.mycontract.co
-repo_url: https://github.com/XinFinOrg/How-To-MyContract
-repo_name: XinFinOrg/How-to-MyContract
+repo_url: https://github.com/XinFinOrg/Docs-MyCon
+repo_name: XinFinOrg/Docs-MyCon
 google_analytics: ['UA-124597188-1', 'docs.xinfin.org']
 
 nav:
@@ -60,4 +60,4 @@ nav:
         - Media/Articles.md
     - FAQ:
         - faq/faq.md
-copyright: If you wish to improve this site, please <a href="https://github.com/XinFinOrg/How-To-MyContract/issues/new"><i class="fa fa-github"></i> open an issue</a> or <a href="https://github.com/XinFinOrg/How-To-MyContract/issues/compare"><i class="fa fa-github"></i> send a pull request</a>.<br>Mycontract v0.1.0. XinFin Network Project 2018.
+copyright: If you wish to improve this site, please <a href="https://github.com/XinFinOrg/Docs-MyCon/issues/new"><i class="fa fa-github"></i> open an issue</a> or <a href="https://github.com/XinFinOrg/Docs-MyCon/issues/compare"><i class="fa fa-github"></i> send a pull request</a>.<br>Mycontract v0.1.0. XinFin Network Project 2018.
