@@ -20,10 +20,7 @@ MyContract implements an Initial Coin Offering (ICO) platform to be used once th
 
 Transactions can be tracked, whether they are deposit, sending, or updating ones.
 
-
-# Demo of generation of Smart Contract on MyContract Platform 
-
-[Demo](https://youtu.be/thR-pTpF7Sw)
+[Demo of generation of Smart Contract on MyContract Platform](https://youtu.be/thR-pTpF7Sw)
 
 In summary, MyContract offers a very practical and easy to use environment for users entering token issuing, ICOs, and token trading business, with contract ownership transfer as a remarkable feature.
 
