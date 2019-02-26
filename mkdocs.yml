@@ -1,7 +1,7 @@
-site_name: About MyContract
-site_description: Leading Platform for Smart Contract Creation, Deployment, Interaction & Token Offering
+site_name: MyContract
+site_description: MyContract
 theme:
-  name: 'material'
+  name: 'readthedocs'
   custom_dir: material_override
   logo: 'images/logo.svg'
   favicon: 'images/favicon.ico'
@@ -44,20 +44,14 @@ extra:
 site_url: https://www.mycontract.co
 repo_url: https://github.com/XinFinOrg/Docs-MyCon
 repo_name: XinFinOrg/Docs-MyCon
-google_analytics: ['UA-124597188-1', 'docs.xinfin.org']
 
 nav:
-    - Get Started:
-      - Introduction: index.md
-      - Product Overview: get-started/productoverview.md
-    # - XinFin Network client:
-    #   - Getting started: misc/wip.md
-    #   - Contributing: misc/wip.md
-    - Guide:
+    - Introduction: index.md
+    - Getting Started:
         - Guide/how_to_setup.md
-        - Guide/Demonestration.md
+        - Guide/API.md
     - Media Room:
         - Media/Articles.md
     - FAQ:
         - faq/faq.md
-copyright: If you wish to improve this site, please <a href="https://github.com/XinFinOrg/Docs-MyCon/issues/new"><i class="fa fa-github"></i> open an issue</a> or <a href="https://github.com/XinFinOrg/Docs-MyCon/issues/compare"><i class="fa fa-github"></i> send a pull request</a>.<br>Mycontract v0.1.0. XinFin Network Project 2018.
+copyright: If you wish to improve this site, please <a href="https://github.com/XinFinOrg/Docs-MyCon/issues/new"><i class="fa fa-github"></i> open an issue</a> or <a href="https://github.com/XinFinOrg/Docs-MyCon/issues/compare"><i class="fa fa-github"></i> send a pull request</a>.<br>Mycontract.
