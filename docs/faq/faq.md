@@ -2,7 +2,7 @@
     Pay for your My Contract package using XDCE. Create an account and proceed to our payment gateway by hitting 'Code My Contract'.
 
 !!! quote "Do you have Paypal Payment option???"
-    YEs. Please Login to mycontract.co and select Payment method "Pay with Paypal".
+    Yes. Please Login to mycontract.co and select Payment method "Pay with Paypal".
 
 !!! quote "Which Blockchain are supported?"
     XinFin's XDC( XinFin.Network) and Ethereum's ERC 20 token creation conventions smart contract which facilitates crowd sale and related smart contracts execution on its networks.
