@@ -10,5 +10,5 @@
 !!! quote "Will a smart contract satisfy my use cases?"
     To find out if a smart contract is a good fit for your business, reach out to us! We'll be happy to answer away any questions and help guide you through the process.
 
-!!! quote "Where is Link to utility like Wallet and exploere?"
-    Please visit website https://XinFin.network to get Link to Wallet and Explorer.
+!!! quote "How to Manage and Transfer token and Where to check Tansaction status?"
+    Please visit website https://XinFin.network to get Link to Wallet to Manage and transfer token and Explorer link to check status of every transaction.
