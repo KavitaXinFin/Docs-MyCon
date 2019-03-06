@@ -48,10 +48,11 @@ repo_name: XinFinOrg/Docs-MyCon
 nav:
     - Introduction: index.md
     - Getting Started:
-        - Guide/how_to_setup.md
-        - Guide/API.md
+        - How to Set Up: Guide/how_to_setup.md
+        - API Documentation: Guide/API.md
     - Media Room:
         - Media/Articles.md
     - FAQ:
         - faq/faq.md
+
 copyright: If you wish to improve this site, please <a href="https://github.com/XinFinOrg/Docs-MyCon/issues/new"><i class="fa fa-github"></i> open an issue</a> or <a href="https://github.com/XinFinOrg/Docs-MyCon/issues/compare"><i class="fa fa-github"></i> send a pull request</a>.<br>Mycontract.
