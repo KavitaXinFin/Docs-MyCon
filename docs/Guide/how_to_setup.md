@@ -2,7 +2,7 @@
 
 **Prerequisite**
 
- 1. Operating System : Ubuntu 16.04 64-bit or higher Should be facing internet directly with public IP & without NAT
+ 1. Operating System : Ubuntu 16.04 64-bit or higher. Should be facing internet directly with public IP & without NAT
 
  2. Tools: Git, Docker, Docker Compose
 
@@ -62,7 +62,7 @@ The above command will install docker and docker-compose for you.
 ![overview](/assets/masternode-.env.png)
 
 
-**d. Start your Node**
+**d. Start Your Node**
 
         sudo docker-compose -f docker-services.yml up -d
 
@@ -94,7 +94,7 @@ Your coinbase address can be found in xdcchain/coinbase.txt file.
 
 ![overview](/assets/masternode-faucet.png)
 
-   **Upload Kyc**
+   **Upload KYC**
 
     > Visit http://xinfin.network/#masternode
     > Upload a notarized kyc
